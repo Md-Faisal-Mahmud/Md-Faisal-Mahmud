@@ -1,8 +1,9 @@
 ### As Salamu 'Alaikum wa Rahmatullahi wa Barakatuh !
 
 - [x] **LinkedIn:** [Md. Faisal Mahmud](https://www.linkedin.com/in/md-faisal-mahmud)
-- [x] **Email:** [md.faisal.mahmud.se@gmail.com](mailto:md.faisal.mahmud.se@gmail.com)
 - [x] **Skype:** [Md. Faisal Mahmud](https://join.skype.com/invite/sqJ0E1MaecII)
+- [x] **Email:** [md.faisal.mahmud.se@gmail.com](mailto:md.faisal.mahmud.se@gmail.com)
+
 
 <!--
 **Md-Faisal-Mahmud/Md-Faisal-Mahmud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
