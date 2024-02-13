@@ -15,7 +15,7 @@
 <code><img height="30" src="./logos/aws.png" alt="AWS" title="AWS"></code>
 <code><img height="30" src="./logos/Git.png" alt="Git" title="Git"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="HTML5" title="HTML5"></code>
-<code><img height="30" src="./logos/css.png" alt="CSS" title="CSS"></code>
+<!--<code><img height="30" src="./logos/css.png" alt="CSS" title="CSS"></code>-->
 <code><img height="30" src="./logos/js.png" alt="JS" title="JavaScript"></code>
 <code><img height="30" src="./logos/ts.png" alt="TS" title="TypeScript"></code>
 <code><img height="30" src="./logos/bootstrap.png" alt="CSS" title="Bootstrap"></code>
