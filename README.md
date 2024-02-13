@@ -9,10 +9,7 @@
 <code><img height="30" src="./logos/c++.png" alt="C++" title="C++"></code>
 
 <code><img height="30" src="https://ms-dotnettools.gallerycdn.vsassets.io/extensions/ms-dotnettools/csdevkit/1.2.5/1702583268260/Microsoft.VisualStudio.Services.Icons.Default" alt="C#" title="C#" /></code>
-
 <code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/DotNet.svg" alt=".NET" title=".NET" /></code>
-
-<code><img </code><code><img height="30" src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="HTML5" title="HTML5</code>
 
 <code><img height="30" src="./logos/js.png" alt="JS" title="JavaScript"></code>
 <code><img height="30" src="./logos/ts.png" alt="TS" title="TypeScript"></code>
