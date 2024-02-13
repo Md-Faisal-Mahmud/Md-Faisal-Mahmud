@@ -1,7 +1,7 @@
 ### As Salamu 'Alaikum wa Rahmatullahi wa Barakatuh !
 
-- [x] **LinkedIn:** [Md. Faisal Mahmud](https://www.linkedin.com/in/md-faisal-mahmud)
 - [x] **Skype:** [Md. Faisal Mahmud](https://join.skype.com/invite/sqJ0E1MaecII)
+- [x] **LinkedIn:** [Md. Faisal Mahmud](https://www.linkedin.com/in/md-faisal-mahmud)
 - [x] **Email:** [md.faisal.mahmud.se@gmail.com](mailto:md.faisal.mahmud.se@gmail.com)
 
 
